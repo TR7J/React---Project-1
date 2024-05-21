@@ -53,9 +53,12 @@ Hint: you'll need to use the following properties:
 those other properties)
 */
 
+
+
 main {
     padding: 57px 27px;
     color: white;
+    background: url(./images/react-icon-large.png) no-repeat right 75%;
 }
 
 .main--title {
